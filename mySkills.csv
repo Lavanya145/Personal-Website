@@ -1,0 +1,23 @@
+Root,Type,Subtype,Technology,Subcategory
+Skills,Web Development,Frontend,HTML5,
+,,,CSS3,LESS
+,,,,RWD
+,,,JS Framework,jQuery
+,,,,AngularJS
+,,,,D3.js
+,,,,BackboneJS
+,,Server Side,DB,MySQL
+,,,,MongoDB
+,,,Node.js,Express
+,,,,npm
+,,,Server,IIS
+,,,,Apache
+,Language,Script,Javascript,
+,,,Python,
+,,,PHP,
+,,Java,Android,
+,Other,Project,Agile,
+,,,Repos,GIT
+,,OS,Mac OS,
+,,,Windows,
+,,,Linux,
