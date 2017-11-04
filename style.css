@@ -7,7 +7,7 @@ body{
 }
 
 .parallax { 
-    background-image: url("girl.jpeg");
+    background-image: url("bck.jpg");
 
     /* Set a specific height */
     height: 250px; 
@@ -28,23 +28,23 @@ div.content{
     text-align: center;
     font-family: "Open Sans", sans-serif;
     line-height: 30px;
-    background: linear-gradient(to bottom right, #99ff99, #80ccff);
+    background: linear-gradient(to bottom right, #99ff99, white);
 }
 
 .proj, .proj1, .proj2{
     padding: 50px 100px;
     font-family: "Open Sans", sans-serif;
-    background: linear-gradient(to bottom right, #99ff99, #80ccff);
+    background: linear-gradient(to bottom right, #99ff99, white);
 }
 
 div.details{
 	padding: 50px 100px;
     font-family: "Open Sans", sans-serif;
-    background: linear-gradient(to bottom right, #99ff99, #80ccff);
+    background: linear-gradient(to bottom right, #99ff99, white);
 }
 
 ul.topnav {
-    font-family: "Open Sans", cursive, sans-serif;
+    font-family: "Open Sans", sans-serif;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -92,8 +92,11 @@ ul.topnav li.right {float: right;}
 
 .details p a{
     font-size: 30px;
-    font-family: cursive;
     color: black;
+}
+
+.resume{
+    height: 500px;
 }
 
 @media screen and (max-width: 600px){
